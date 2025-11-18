@@ -1,0 +1,18 @@
+@config "../tailwind.config.js";
+@import "tailwindcss";
+@import "./components/ui/animations.css";
+
+@theme {
+  --color-primary: #3b82f6;
+  --color-secondary: #8b5cf6;
+}
+
+/* Body background with soft white */
+body {
+  background-color: #F7F8FA;
+  transition: background-color 0.3s ease;
+}
+
+body.dark {
+  background-color: #111827;
+}

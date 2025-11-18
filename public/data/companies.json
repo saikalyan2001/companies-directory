@@ -1,0 +1,63 @@
+{
+  "companies": [
+    { "id": 1, "name": "Tech Innovations Inc", "location": "San Francisco", "country": "USA", "industry": "Technology", "employees": 500, "founded": 2015, "description": "Leading AI and machine learning solutions" },
+    { "id": 2, "name": "CloudStream Systems", "location": "San Francisco", "country": "USA", "industry": "Technology", "employees": 450, "founded": 2017, "description": "Cloud computing and infrastructure" },
+    { "id": 3, "name": "Food Delivery Hub", "location": "San Francisco", "country": "USA", "industry": "Food & Beverage", "employees": 650, "founded": 2016, "description": "Food delivery platform" },
+    
+    { "id": 4, "name": "Green Energy Solutions", "location": "Austin", "country": "USA", "industry": "Energy", "employees": 250, "founded": 2018, "description": "Renewable energy and sustainability" },
+    { "id": 5, "name": "AgriTech Farms", "location": "Austin", "country": "USA", "industry": "Agriculture", "employees": 350, "founded": 2020, "description": "Smart farming and agricultural technology" },
+    { "id": 6, "name": "Fitness Plus", "location": "Austin", "country": "USA", "industry": "Healthcare", "employees": 290, "founded": 2019, "description": "Fitness and wellness technology" },
+
+    { "id": 7, "name": "FinTech Dynamics", "location": "New York", "country": "USA", "industry": "Finance", "employees": 800, "founded": 2012, "description": "Financial technology and payment solutions" },
+    { "id": 8, "name": "Cyber Shield Security", "location": "New York", "country": "USA", "industry": "Technology", "employees": 400, "founded": 2015, "description": "Cybersecurity and data protection" },
+    { "id": 9, "name": "Real Estate Connect", "location": "New York", "country": "USA", "industry": "Real Estate", "employees": 420, "founded": 2015, "description": "Real estate marketplace and services" },
+
+    { "id": 10, "name": "Retail Connect", "location": "Chicago", "country": "USA", "industry": "Retail", "employees": 1200, "founded": 2010, "description": "E-commerce and retail solutions" },
+    { "id": 11, "name": "Construction Plus", "location": "Chicago", "country": "USA", "industry": "Construction", "employees": 1500, "founded": 2008, "description": "Commercial construction and development" },
+
+    { "id": 12, "name": "HealthCare Plus", "location": "Boston", "country": "USA", "industry": "Healthcare", "employees": 600, "founded": 2016, "description": "Digital healthcare and telemedicine" },
+    { "id": 13, "name": "Biotech Innovations", "location": "Boston", "country": "USA", "industry": "Healthcare", "employees": 900, "founded": 2011, "description": "Biotechnology and pharmaceutical research" },
+
+    { "id": 14, "name": "Fashion Forward", "location": "Los Angeles", "country": "USA", "industry": "Retail", "employees": 550, "founded": 2016, "description": "Fashion and apparel e-commerce" },
+    { "id": 15, "name": "Media Nexus", "location": "Los Angeles", "country": "USA", "industry": "Media", "employees": 700, "founded": 2013, "description": "Digital media and entertainment" },
+
+    { "id": 16, "name": "Tech Innovations Inc UK", "location": "London", "country": "UK", "industry": "Technology", "employees": 600, "founded": 2014, "description": "Tech innovation and software development" },
+    { "id": 17, "name": "Green Energy UK", "location": "London", "country": "UK", "industry": "Energy", "employees": 300, "founded": 2017, "description": "Sustainable energy solutions" },
+    { "id": 18, "name": "Finance Hub Ltd", "location": "London", "country": "UK", "industry": "Finance", "employees": 700, "founded": 2012, "description": "Financial services and fintech solutions" },
+    { "id": 19, "name": "HealthFirst UK", "location": "Bristol", "country": "UK", "industry": "Healthcare", "employees": 480, "founded": 2016, "description": "Healthcare technology and services" },
+
+    { "id": 20, "name": "Berlin Tech", "location": "Berlin", "country": "Germany", "industry": "Technology", "employees": 550, "founded": 2015, "description": "Innovative software solutions" },
+    { "id": 21, "name": "Energy Solutions DE", "location": "Hamburg", "country": "Germany", "industry": "Energy", "employees": 400, "founded": 2019, "description": "Renewable energy projects" },
+
+    { "id": 22, "name": "Tencent", "location": "Shenzhen", "country": "China", "industry": "Technology", "employees": 2500, "founded": 1998, "description": "Internet and AI services" },
+    { "id": 23, "name": "Tencent Beijing", "location": "Beijing", "country": "China", "industry": "Technology", "employees": 2200, "founded": 1998, "description": "Internet and AI services" },
+
+    { "id": 24, "name": "Infosys Global Bangalore", "location": "Bangalore", "country": "India", "industry": "Technology", "employees": 2000, "founded": 2000, "description": "IT services and consulting" },
+    { "id": 25, "name": "Infosys Global Hyderabad", "location": "Hyderabad", "country": "India", "industry": "Technology", "employees": 1800, "founded": 2000, "description": "IT services and consulting" },
+    { "id": 26, "name": "Infosys Global Pune", "location": "Pune", "country": "India", "industry": "Technology", "employees": 1500, "founded": 2000, "description": "IT services and consulting" },
+    { "id": 27, "name": "Infosys Global Chennai", "location": "Chennai", "country": "India", "industry": "Technology", "employees": 1400, "founded": 2000, "description": "IT services and consulting" },
+    { "id": 28, "name": "Infosys Global Coimbatore", "location": "Coimbatore", "country": "India", "industry": "Technology", "employees": 600, "founded": 2000, "description": "IT services and consulting" },
+    { "id": 29, "name": "Infosys Global Trivandrum", "location": "Trivandrum", "country": "India", "industry": "Technology", "employees": 500, "founded": 2000, "description": "IT services and consulting" },
+
+    { "id": 30, "name": "Renew Power New Delhi", "location": "New Delhi", "country": "India", "industry": "Energy", "employees": 900, "founded": 2013, "description": "Renewable energy generation" },
+    { "id": 31, "name": "Renew Power Mumbai", "location": "Mumbai", "country": "India", "industry": "Energy", "employees": 800, "founded": 2013, "description": "Renewable energy generation" },
+    { "id": 32, "name": "Renew Power Chennai", "location": "Chennai", "country": "India", "industry": "Energy", "employees": 750, "founded": 2013, "description": "Renewable energy generation" },
+    { "id": 33, "name": "Renew Power Bhubaneswar", "location": "Bhubaneswar", "country": "India", "industry": "Energy", "employees": 350, "founded": 2013, "description": "Renewable energy generation" },
+
+    { "id": 34, "name": "FinTech India Mumbai", "location": "Mumbai", "country": "India", "industry": "Finance", "employees": 850, "founded": 2012, "description": "Digital payments and banking" },
+    { "id": 35, "name": "FinTech India Bangalore", "location": "Bangalore", "country": "India", "industry": "Finance", "employees": 700, "founded": 2012, "description": "Digital payments and banking" },
+    { "id": 36, "name": "FinTech India Chennai", "location": "Chennai", "country": "India", "industry": "Finance", "employees": 600, "founded": 2012, "description": "Digital payments and banking" },
+
+    { "id": 37, "name": "HealthPlus India Chennai", "location": "Chennai", "country": "India", "industry": "Healthcare", "employees": 650, "founded": 2016, "description": "Healthcare delivery and tech" },
+    { "id": 38, "name": "HealthPlus India Kolkata", "location": "Kolkata", "country": "India", "industry": "Healthcare", "employees": 600, "founded": 2016, "description": "Healthcare delivery and tech" },
+    { "id": 39, "name": "HealthPlus India Hyderabad", "location": "Hyderabad", "country": "India", "industry": "Healthcare", "employees": 550, "founded": 2016, "description": "Healthcare delivery and tech" },
+    { "id": 39, "name": "Frontlines EduTech", "location": "Hyderabad", "country": "India", "industry": "EduTech & IT", "employees": 950, "founded": 2014, "description": "empowers students by providing high-quality education and career guidance." },
+    { "id": 40, "name": "HealthPlus India Visakhapatnam", "location": "Visakhapatnam", "country": "India", "industry": "Healthcare", "employees": 300, "founded": 2016, "description": "Healthcare delivery and tech" },
+
+    { "id": 41, "name": "EduConnect Pune", "location": "Pune", "country": "India", "industry": "Education", "employees": 450, "founded": 2018, "description": "Online education platforms" },
+    { "id": 42, "name": "EduConnect Bangalore", "location": "Bangalore", "country": "India", "industry": "Education", "employees": 400, "founded": 2018, "description": "Online education platforms" },
+    { "id": 43, "name": "EduConnect Mumbai", "location": "Mumbai", "country": "India", "industry": "Education", "employees": 380, "founded": 2018, "description": "Online education platforms" },
+    { "id": 44, "name": "EduConnect Chennai", "location": "Chennai", "country": "India", "industry": "Education", "employees": 350, "founded": 2018, "description": "Online education platforms" },
+    { "id": 45, "name": "EduConnect Coimbatore", "location": "Coimbatore", "country": "India", "industry": "Education", "employees": 250, "founded": 2018, "description": "Online education platforms" }
+  ]
+}
